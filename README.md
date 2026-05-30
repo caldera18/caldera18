@@ -132,7 +132,7 @@
     />
   </a>
 
-  <br><br>
+
 
   <a href="https://www.linkedin.com/in/caldera18" target="_blank">
     <img 
